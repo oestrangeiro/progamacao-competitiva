@@ -1,2 +1,1 @@
-<p>Repositorio tangente aos exercicios de programação competitiva em c/c++.
-  <br>Aulas ministradas pelo professor Glauber e colegas do curso de Engenharia da Computação no IFCE - Campus Fortaleza.</p>
+<h1>Repositorio tangente as soluções das listas semanais exercicios para a OBI (Olimpíada Brasileira de Informática).</h1><br>
